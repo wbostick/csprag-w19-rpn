@@ -21,7 +21,6 @@ mistune>=0.8.4
 pipreqs>=0.4.9
 pycrypto>=2.6.1
 Pygments>=2.3.1
-pygobject>=3.26.1
 pyinotify>=0.9.6
 pyOpenSSL>=17.5.0
 pyxdg>=0.25
